@@ -1,1 +1,3 @@
-# goit-markup-hw-01
+# calculator
+
+https://maciekkosinski.github.io/calkulator/
